@@ -1,13 +1,3 @@
-'''
-@File       :   CLIPScore.py
-@Time       :   2023/02/12 13:14:00
-@Auther     :   Jiazheng Xu
-@Contact    :   xjz22@mails.tsinghua.edu.cn
-@Description:   CLIPScore.
-* Based on CLIP code base
-* https://github.com/openai/CLIP
-'''
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F

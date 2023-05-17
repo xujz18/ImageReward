@@ -1,13 +1,3 @@
-'''
-@File       :   BLIPScore.py
-@Time       :   2023/02/19 20:48:00
-@Auther     :   Jiazheng Xu
-@Contact    :   xjz22@mails.tsinghua.edu.cn
-@Description:   BLIPScore.
-* Based on BLIP code base
-* https://github.com/salesforce/BLIP
-'''
-
 import os
 import torch
 import torch.nn as nn

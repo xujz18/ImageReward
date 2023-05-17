@@ -1,11 +1,3 @@
-'''
-@File       :   inference.py
-@Time       :   2023/03/12 15:35:00
-@Auther     :   Jiazheng Xu
-@Contact    :   xjz22@mails.tsinghua.edu.cn
-@Description:   Inference reward model.
-'''
-
 import os
 import torch
 import json

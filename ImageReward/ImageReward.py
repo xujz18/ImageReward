@@ -1,14 +1,3 @@
-'''
-@File       :   ImageReward.py
-@Time       :   2023/01/28 19:53:00
-@Auther     :   Jiazheng Xu
-@Contact    :   xjz22@mails.tsinghua.edu.cn
-@Description:   ImageReward Reward model.
-* Based on CLIP code base and improved-aesthetic-predictor code base
-* https://github.com/openai/CLIP
-* https://github.com/christophschuhmann/improved-aesthetic-predictor
-'''
-
 import os
 import torch
 import torch.nn as nn
